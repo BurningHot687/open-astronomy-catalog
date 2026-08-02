@@ -6,7 +6,7 @@ This is a collection of true color texture maps for the planet Jupiter I have fo
 * Creator: BurningHot687
 * License: CC BY-SA 4.0
 * Source: [Full Release](https://github.com/BurningHot687/open-astronomy-catalog/releases/tag/2026.08)
-* Note: this uses direct `.fits` data, however it only uses the filters 'f631n' and 'f467m'. It uses a synthetic green using the formula $0.6R + 0.4B$ as an initial approximation. This map was intended to be practice shown off to the world to be finalized more professionally.
+* Note: this uses direct `.fits` data, however it only uses the filters `f631n` and `f467m`. It uses a synthetic green using the formula $0.6R + 0.4B$ as an initial approximation. This map was intended to be practice shown off to the world to be finalized more professionally.
 
 ## Hubble OPAL Cycle 32a v3
 ![Jupiter OPAL Cycle 32 Preview Image](../assets/jupiter-cycle32-v3-preview.jpg)
