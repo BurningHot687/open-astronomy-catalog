@@ -15,6 +15,13 @@ This is a collection of true color texture maps for the planet Jupiter I have fo
 * Source: [Full Release](https://github.com/BurningHot687/open-astronomy-catalog/releases/tag/2026.08)
 * Note: nearly the same as above, but utilizes $0.5R + 0.5B$ and used Generalized Hyperbolic Stretch Transformation to map colors nonlinearly.
 
+## Hubble OPAL Cycle 32a v4
+![Jupiter OPAL Cycle 32 Preview Image](../assets/jupiter-cycle32-v4-preview.jpg)
+* Creator: BurningHot687
+* License: CC BY-SA 4.0
+* Source: [Full Release](https://github.com/BurningHot687/open-astronomy-catalog/releases/tag/2026.08)
+* Note: adds `f502n` to be used in the synthetic green formula $0.59G + 0.41R$ to map closer to human eyesight, and uses Asinh Transformation to map colors nonlinearly.
+
 ## Juno Overlay over Cassini
 ![Jupiter Cassini Preview Image](https://bjj.mmedia.is/data/jupiter_css/jupiter_css_m.jpg)
 * Creator: Björn Jónsson
